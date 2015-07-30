@@ -1,0 +1,44 @@
+#azul{
+	background-color: blue;
+	color: white;
+}
+
+.pie{
+	background-color: black;
+	color: white;
+}
+ .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+ }
+ #myCarousel{
+ 	background-color:white;
+ }
+ table{
+ 	border: 2px solid black;
+ 	border-color: #1EAFBF;
+ 	background-color: #D1D4F6;
+ 	margin-right: 25%;
+ 	margin-left: 18%;
+ 	width: 70%;
+ }
+
+ td {
+ 	height: 25px;
+    padding: 5px;
+    font-family: 'Lobster', cursive;
+    font-size: 20px;
+   }
+  .td1{
+  	text-align: right;
+  }
+   th{
+   	text-align: center;
+   }
+   .botton{
+   	background-color: #34D4F6;
+   	color: white;
+   	font-size: 15px;
+   	font-family: 'Bree Serif', serif;
+   }
